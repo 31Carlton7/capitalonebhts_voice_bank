@@ -1,6 +1,6 @@
 # Voice Bank
 
-Welcome to VoiceBank, a AI powered, voice enabled version of Capital One's Eno!
+Welcome to VoiceBank, an AI powered, voice enabled version of Capital One's Eno!
 
 ## Getting Started
 
