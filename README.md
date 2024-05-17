@@ -1,6 +1,6 @@
 # voice_bank
 
-A new Flutter project.
+Welcome to VoiceBank, a AI powered, voice enabled version of Capital One's Eno!
 
 ## Getting Started
 
@@ -14,5 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-voicebank12345!
